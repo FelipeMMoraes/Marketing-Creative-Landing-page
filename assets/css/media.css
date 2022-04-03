@@ -4,6 +4,10 @@
     flex-direction: column;
   }
 
+  .title {
+    margin: 0 auto;
+  }
+  
   main {
     grid-template-columns: 1fr;
   }
